@@ -1,0 +1,1 @@
+This project is about write some code "from scratch" and achieve the rock, paper, scissors game on JS. 
